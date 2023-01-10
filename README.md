@@ -9,4 +9,4 @@ to production. We will learn how versioning and testing help us achieve reproduc
 how to leverage automation to speed up the delivery of the pipelines. We will deploy our model to
 Heroku platform and discuss how models should be monitored after deployment.  
   
-## Module 1: Introduction to DevOps
+## Module 1: Introduction to DevOps(development and operation)
