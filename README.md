@@ -8,5 +8,4 @@ generate business value. We will go through the steps of the ML lifecycle from d
 to production. We will learn how versioning and testing help us achieve reproducible data science, and
 how to leverage automation to speed up the delivery of the pipelines. We will deploy our model to
 Heroku platform and discuss how models should be monitored after deployment.  
-  
-## Module 1: Introduction to DevOps(development and operation)
+
