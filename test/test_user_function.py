@@ -2,6 +2,7 @@ import pytest
 import io
 import os
 import sys
+
 sys.path.insert(0, 'C:/Users/balde/Desktop/DSTI/Mlops/MLOPS-DSTI/src')
 
 from user_functions import *
@@ -35,3 +36,7 @@ def test_user_name_with_space(monkeypatch):
 def test_user_name_correct(monkeypatch):
     monkeypatch.setattr('sys.stdin', io.StringIO('baldezo'))
     assert get_user_name_from_input() == "baldezo"
+
+
+def test_user_password_not_eight_carac(monkeypatch):
+    pass
