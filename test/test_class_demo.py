@@ -6,5 +6,5 @@ class TestClassDemoInstance:
         assert self.value ==1
 
     def test_two(self):
-        assert self.value ==1
+        assert self.value ==0
 
