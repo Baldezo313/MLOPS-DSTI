@@ -12,6 +12,6 @@ jobs:
         run: |
           pip install -r requirements.txt
           python test/wine_linear_regression_test.py
-          cat test/metrics.txt
-          cat test/metrics.txt >> report.md
+          cat metrics.txt
+          cat metrics.txt >> report.md
           cml-send-comment report.md
