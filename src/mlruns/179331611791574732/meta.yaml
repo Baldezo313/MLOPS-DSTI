@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/balde/Desktop/DSTI/Mlops/MLOPS-DSTI/src/mlruns/179331611791574732
+creation_time: 1675256821441
+experiment_id: '179331611791574732'
+last_update_time: 1675256821441
+lifecycle_stage: active
+name: /mlflow_test/elasticnet_wine

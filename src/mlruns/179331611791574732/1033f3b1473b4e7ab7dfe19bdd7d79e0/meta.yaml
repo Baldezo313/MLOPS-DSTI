@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/balde/Desktop/DSTI/Mlops/MLOPS-DSTI/src/mlruns/179331611791574732/1033f3b1473b4e7ab7dfe19bdd7d79e0/artifacts
+end_time: 1675256974570
+entry_point_name: ''
+experiment_id: '179331611791574732'
+lifecycle_stage: active
+run_id: 1033f3b1473b4e7ab7dfe19bdd7d79e0
+run_name: salty-sponge-427
+run_uuid: 1033f3b1473b4e7ab7dfe19bdd7d79e0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675256967860
+status: 3
+tags: []
+user_id: balde

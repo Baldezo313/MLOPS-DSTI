@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/balde/Desktop/DSTI/Mlops/MLOPS-DSTI/src/mlruns/0/f5a56cd91aa749cb831af516e3b2d808/artifacts
+end_time: 1675256597158
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5a56cd91aa749cb831af516e3b2d808
+run_name: blushing-mole-341
+run_uuid: f5a56cd91aa749cb831af516e3b2d808
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675256591100
+status: 3
+tags: []
+user_id: balde
