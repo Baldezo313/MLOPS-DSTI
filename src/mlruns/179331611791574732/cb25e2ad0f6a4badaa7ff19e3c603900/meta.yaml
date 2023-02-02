@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/balde/Desktop/DSTI/Mlops/MLOPS-DSTI/src/mlruns/179331611791574732/cb25e2ad0f6a4badaa7ff19e3c603900/artifacts
+end_time: 1675258272716
+entry_point_name: ''
+experiment_id: '179331611791574732'
+lifecycle_stage: active
+run_id: cb25e2ad0f6a4badaa7ff19e3c603900
+run_name: bright-dove-519
+run_uuid: cb25e2ad0f6a4badaa7ff19e3c603900
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675258264402
+status: 3
+tags: []
+user_id: balde

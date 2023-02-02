@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/balde/Desktop/DSTI/Mlops/MLOPS-DSTI/src/mlruns/179331611791574732/1464e8446de9494593ba8925a9a9d9e2/artifacts
+end_time: 1675258279350
+entry_point_name: ''
+experiment_id: '179331611791574732'
+lifecycle_stage: active
+run_id: 1464e8446de9494593ba8925a9a9d9e2
+run_name: carefree-eel-869
+run_uuid: 1464e8446de9494593ba8925a9a9d9e2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675258273398
+status: 3
+tags: []
+user_id: balde

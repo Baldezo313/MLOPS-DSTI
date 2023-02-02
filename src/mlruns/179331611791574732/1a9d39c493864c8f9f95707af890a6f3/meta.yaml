@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/balde/Desktop/DSTI/Mlops/MLOPS-DSTI/src/mlruns/179331611791574732/1a9d39c493864c8f9f95707af890a6f3/artifacts
+end_time: 1675258286714
+entry_point_name: ''
+experiment_id: '179331611791574732'
+lifecycle_stage: active
+run_id: 1a9d39c493864c8f9f95707af890a6f3
+run_name: colorful-fowl-780
+run_uuid: 1a9d39c493864c8f9f95707af890a6f3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675258280038
+status: 3
+tags: []
+user_id: balde
